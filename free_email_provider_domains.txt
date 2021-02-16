@@ -3768,3 +3768,10 @@ ebmails.com
 armailo.ml
 bell.net
 bell.ca
+ziggo.nl
+upcmail.nl
+home.nl
+quicknet.nl
+casema.nl
+chello.nl
+a2000.nl
