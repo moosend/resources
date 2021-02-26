@@ -445,4 +445,12 @@ USΑPostal
 USΑ-Postal
 USΑ-Postal!
 USΑPoostal
-
+amazonservicealert
+Service Alert
+amazon-service-alert
+Paypal Team
+Paypal Team	1234
+Paypal Team	2021
+Paypal Team	2022
+Paypal Team	Services Account
+Paypal-Team-Services-Account
