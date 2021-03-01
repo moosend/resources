@@ -524,3 +524,9 @@ US_PostalSurvey
 US_PostalSurvey!!!
 US_PostalSurvey!!
 UPS-Postal
+UPS-Postal!
+UPS-Postal Survey
+From Paypal
+From Amazon
+From US Postal
+From US_PostalSurve
