@@ -549,3 +549,8 @@ Instagram Account
 Instagram-Account
 Instagram_Account
 Instagram Your Account
+Team Credit
+Team_Credit
+Team=Credit
+Team-Credit
+TeamCredit
