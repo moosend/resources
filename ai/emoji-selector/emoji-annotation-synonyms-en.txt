@@ -145,7 +145,7 @@
 🤶 => 🤶, celebration, Christmas, claus, Mrs., Mrs. Claus
 🧙 => 🧙, mage, sorcerer, sorceress, witch, wizard
 🧜 => 🧜, mermaid, merman, merperson, merwoman
-🧝 => 🧝, elf, magical
+🧝 => 🧝, elf
 🧞 => 🧞, djinn, genie
 🧟 => 🧟, undead, walking dead, zombie
 🚶 => 🚶, hike, person walking, walk, walking
@@ -1025,11 +1025,6 @@
 🧜🏽 => 🧜🏽, mermaid, merman, merperson, merwoman, medium skin tone
 🧜🏾 => 🧜🏾, mermaid, merman, merperson, merwoman, medium-dark skin tone
 🧜🏿 => 🧜🏿, mermaid, merman, merperson, merwoman, dark skin tone
-🧝🏻 => 🧝🏻, elf, magical, light skin tone
-🧝🏼 => 🧝🏼, elf, magical, medium-light skin tone
-🧝🏽 => 🧝🏽, elf, magical, medium skin tone
-🧝🏾 => 🧝🏾, elf, magical, medium-dark skin tone
-🧝🏿 => 🧝🏿, elf, magical, dark skin tone
 🚶🏻 => 🚶🏻, hike, walking, light skin tone
 🚶🏼 => 🚶🏼, hike, walking, medium-light skin tone
 🚶🏽 => 🚶🏽, hike, walking, medium skin tone
