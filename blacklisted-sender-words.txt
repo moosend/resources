@@ -586,3 +586,10 @@ Online Compliance Department
 N3tflix
 DHL EXPRESS
 DHL-EXPRESS
+USPS
+USP
+UPS
+USPS Notify
+USPS Notification
+Canada Post
+CanadaPost
