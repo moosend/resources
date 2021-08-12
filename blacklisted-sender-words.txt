@@ -593,3 +593,9 @@ USPS Notify
 USPS Notification
 Canada Post
 CanadaPost
+Pay_pal
+Pay___pal
+Pay___pal
+Notify
+Account Update
+Acount Update
