@@ -604,3 +604,11 @@ service
 Service Notification
 Service Account
 Service Update
+Delivery Service
+Delivery
+Delivery Notification
+Deli-very
+Delivery_
+Deliv3ry
+Delivery____
+Delivery__
