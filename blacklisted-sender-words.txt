@@ -628,3 +628,6 @@ Invoice____Team
 Invoice_Team
 Team-Invoice
 Team--Invoice
+Dear Customer
+Dear-Customer
+Dear_Customer
