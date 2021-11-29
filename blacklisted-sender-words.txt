@@ -640,3 +640,5 @@ Customer
 Εθνική Τράπεζα    Ελλάδος
 Εθνική Τράπεζα
 Τράπεζα
+National Bank of Greece
+National Bank Greece
