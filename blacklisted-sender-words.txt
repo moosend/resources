@@ -657,3 +657,10 @@ Peiraus Bank
 Peiraus Bank of Greece
 piraeusbank
 Piraeusbank
+Account Authorization
+Account-Authorization
+Account__Authorization
+Account_Authorization
+Acount-Authorization
+NBG
+NBGreece
