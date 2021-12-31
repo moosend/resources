@@ -689,3 +689,11 @@ Aγαπητε πελατη
 Τρaπεζa
 Τράπεζa
 Τρaπεζα
+noreply
+no reply
+no  reply
+no-reply 
+no--reply
+no+reply
+no_reply
+no__reply 
