@@ -700,3 +700,9 @@ no__reply
 Ελλaδος
 Ελλάδos
 Ελλάδoς
+i-bank
+i_bank
+i--bank
+i__bank
+i-bαnk
+bαnk
