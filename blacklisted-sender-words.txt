@@ -631,7 +631,6 @@ Team--Invoice
 Dear Customer
 Dear-Customer
 Dear_Customer
-Customer
 Εθνική Τράπεζα της Ελλάδος
 Εθνική Τράπεζα  Ελλάδος
 Εθνική_Τράπεζα_της_Ελλάδος
