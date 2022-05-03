@@ -41,7 +41,6 @@ paypalsender
 Paypalle
 paypalonlinesystem
 paypalhelp
-paypalCustomer
 paypal219847913
 paypalsecurityupdates
 Paypalverification658
@@ -218,7 +217,7 @@ Rebateamazon
 Amazon Support
 Info Amazon
 Amazon Offers
-Customer-Service@Amazon.com
+Service@Amazon.com
 orderconfirmationamazon
 amazonbrasil
 Apple ID
@@ -628,9 +627,9 @@ Invoice____Team
 Invoice_Team
 Team-Invoice
 Team--Invoice
-Dear Customer
-Dear-Customer
-Dear_Customer
+Dear Custome
+Dear-Custome
+Dear_Custome
 Εθνική Τράπεζα της Ελλάδος
 Εθνική Τράπεζα  Ελλάδος
 Εθνική_Τράπεζα_της_Ελλάδος
