@@ -761,3 +761,7 @@ Sparkasse
 Sparkasse__
 Sparkasse_
 Sparkasse
+ibankco
+ibankco
+youribank.com
+youribank
