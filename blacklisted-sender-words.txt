@@ -774,3 +774,8 @@ GR_BANK
 GR___BANK
 GR_____BANK
 BANK_GR
+GR-Bank
+GR-_Bank
+GR--Bank
+GR---Bank
+GR-----Bank
