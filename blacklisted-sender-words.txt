@@ -815,3 +815,13 @@ notice
 GOVGR
 MyGov
 GovGr
+GOV-GR
+GOV_GR
+Government of Greece
+Ελληνική Κυβέρνηση
+Επιστροφή Φόρου
+Tax Return
+Νέα άφιξη
+gov.gr
+gov-greece.gr
+gov__gr
