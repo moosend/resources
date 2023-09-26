@@ -930,3 +930,33 @@ aܿmܿaܿzܿܿonܿ
 emergency
 em3rgency
 Urgent
+Account Verification
+Security Alert
+Unauthorized Access
+Suspicious Activity
+Account Locked
+Verification Process
+Account Compromised
+Confirm Your Identity
+Limited Account Access
+Security Breach
+Urgent Action Required
+Verify Your Account
+Account Review
+Suspended Account
+Verify Your Information
+Acc0unt Verification
+S3curity Alert
+Unauthoriz3d Acc3ss
+Susp1cious Activity
+Acc0unt L0cked
+V3rification Proc3ss
+Acc0unt Comprom1s3d
+Conf1rm Your 1d3ntity
+L1mit3d Acc0unt Acc3ss
+S3curity Br3ach
+Urg3nt Act1on R3quir3d
+V3rify Your Acc0unt
+Acc0unt R3vi3w
+Susp3nd3d Acc0unt
+V3rify Your 1nformation
