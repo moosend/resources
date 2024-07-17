@@ -992,3 +992,17 @@ claimsoli
 Fαcebook
 intuit
 intuit_
+Bαnk
+B@nk
+N0tification
+Your_account_is_blocked_
+AccountUpdate
+SecureMessage
+Banking_Alert
+Security_Notice
+Account_Security
+Alert_From_Bank
+Bank_Account_Update
+Urgent_
+Banking_
+Security__
