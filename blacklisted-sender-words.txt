@@ -1006,3 +1006,5 @@ Bank_Account_Update
 Urgent_
 Banking_
 Security__
+Coinbase
+C0inbase 
