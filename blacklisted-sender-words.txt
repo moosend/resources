@@ -3,7 +3,7 @@ paypal
 Paypal Support
 paypalme
 paypal secure
-Paypal Inc
+Paypal
 paypalregister
 paypalacc
 PAYPALINC2020
@@ -12,7 +12,7 @@ PayPalService
 Paypal Valide
 paypali
 PayPal Service
-PaypalService INC
+PaypalService
 paypal.service@team.com
 paypal prasethio
 paypalsupport
@@ -228,12 +228,12 @@ AppleCloud
 Apple Service
 Notification
 Office notification
-One-drive notification
+Onedrive notification
 Chase-Notification
 Pay-pal
 facebooksecurityprotocol
 Facebook
-Facebook Inc
+Facebook
 facebooksecurityonwork
 Facebook Partnerships
 facebooksecurity
