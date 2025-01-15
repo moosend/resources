@@ -1016,3 +1016,7 @@ RSGroup
 Nexus
 ДСК Банка
 HelpLine
+Amazon
+PayPay
+Amazon.co.jp 
+Amazon.
