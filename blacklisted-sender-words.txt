@@ -1020,3 +1020,6 @@ Amazon
 PayPay
 Amazon.co.jp 
 Amazon.
+updates
+UpdateAccount
+Update
