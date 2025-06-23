@@ -1104,3 +1104,4 @@ Alertnetflix
 ŠA
 AccountUpdateNotification
 Netfix
+BitPanda
