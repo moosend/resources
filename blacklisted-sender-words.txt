@@ -1105,3 +1105,4 @@ Alertnetflix
 AccountUpdateNotification
 Netfix
 BitPanda
+adobecloudstorage
