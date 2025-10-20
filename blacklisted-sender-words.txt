@@ -1129,3 +1129,9 @@ BitPanda
 adobecloudstorage
 nbgalert
 nbg-identify
+Trezor
+Trez
+Tr3zor
+Trez0r
+trezorsupport
+trezoraccount
