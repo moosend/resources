@@ -1,6 +1,6 @@
 paypalusaccounts
 paypal
-Paypal Support
+Paypal-Support
 paypalme
 paypal secure
 Paypal
@@ -77,7 +77,7 @@ brnetflix
 Netflix Arg
 comicsflix
 adflix
-Support Netflix
+SupportNetflix
 freenetflix
 Netflix Assistant
 JOFLIX OOKO
@@ -88,7 +88,7 @@ qgflix
 Spotify
 Spotif.Support
 Spotify Web-Team
-Spotify Support-Team
+SpotifySupport-Team
 spotivou
 rebeccaspotio
 Spotify Web-Support
@@ -120,7 +120,7 @@ MICROSOFT
 PTUK Microsoft Surface
 Microsoftonline
 Microsoft Cloud Security
-Microsoft Support
+Microsoft
 Microsoft account team
 Microsoft Team
 Microsoft tėam
@@ -214,7 +214,7 @@ amazonrefund
 spamamazon
 Amazonnncho
 Rebateamazon
-Amazon Support
+Amazon
 Info Amazon
 Amazon Offers
 Service@Amazon.com
@@ -223,7 +223,7 @@ amazonbrasil
 Apple ID
 AppleID
 APPLE
-Apple Support
+Apple
 AppleCloud
 Apple Service
 Notification
@@ -238,7 +238,7 @@ facebooksecurityonwork
 Facebook Partnerships
 facebooksecurity
 Facebook Copyright
-Facebook support
+Facebook
 facebookserver
 facebookbokepterbaru
 FacebookMegaBillion
@@ -253,12 +253,12 @@ Chase Fraud Alert
 chasefraudalert
 Scity Alerts
 Alertas Tecnica
-Support Alert
+Alert
 BOFA Alerts
 Alerts
 Office 1 Superstores
 Office of Admissions
-Office 365 Support
+Office 365
 Office Plus Business Center
 Asdasd
 dsadasd
@@ -384,7 +384,7 @@ Bankofamerica.com ©
 earletsbankofamerica
 Chase Bank
 cryptobanks
-Support Bank
+Bank
 fibank
 Coursebank
 Gold Bank
@@ -397,8 +397,6 @@ secure
 security
 US Bank
 USA BANK
-Support
-SUPPORT
 SUPORT
 SUPPPORT
 VERIFY
@@ -572,7 +570,7 @@ Al3rt
 Compliance Department
 Compliance
 complianc3
-Support Accounts
+Accounts
 Abuse Deks
 Abuse Desk
 Verify your account
@@ -914,12 +912,12 @@ Mastercaard
 Maastercard
 Bank of America Security
 Chase Fraud
-PayPal Support 
+PayPal 
 Citibank Account Services
 Microsoft Account
-Apple Support
+Apple
 Google Security
-Amazon Customer Support
+Amazon Customer
 Publishers Clearing
 Mega Millions Lottery
 British National Lottery
@@ -1054,7 +1052,7 @@ HelppDesk
 HelpDeskSecurity
 OnlineSupport-Help
 IT-HelpDesk
-Support-Verification
+SupportVerification
 HelpDesk-Notice
 TechSupportAlert
 System-Admin-Notice
